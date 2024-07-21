@@ -15,21 +15,17 @@ Join us on The Forge to connect with fellow Fortnite enthusiasts, access valuabl
 # INTRODUCTION TO THE SERVER [ FORGE ] V2
 
 
-
-
-
-# The Forge Server Creation
-
-# Origin from RealmMontana
 The Forge server originated from the toxic burning community of the RealmMontana Discord server, evolving to create a positive and focused environment for the Fortnite modding and content creation community.
 
-# Initial Setup
+
 Transition from RealmMontana:
 
 The idea for The Forge was sparked within the RealmMontana community, where there was a desire to shift away from the toxic environment and create a more supportive and specialized space.
 Recognizing the potential for a dedicated server, the decision was made to establish The Forge.
 
 # Growth and Development
+
+
 Continuous Improvement: Regular updates and improvements were made based on community feedback and technological advancements.
 Collaborations: Partnerships with other communities and developers were pursued to bring new perspectives and innovations to The Forge.
 Future Plans: The server continues to evolve with the aim of expanding features, enhancing user experience, and supporting the growth of the community.
