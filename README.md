@@ -31,3 +31,48 @@ Collaborations: Partnerships with other communities and developers were pursued 
 Future Plans: The server continues to evolve with the aim of expanding features, enhancing user experience, and supporting the growth of the community.
 
 
+# INTRODUCTION TO SETTING UP THE DEVELOPER UEFN EDITOR
+
+Download the Provided packs from real montana. Then locate you fortnite game location
+- Locate the Paks foler
+- and copy and paste the paks into your folder.
+
+Close your paks folder.
+Open/launch the Patched unreal editor ( ALSO PROVIDED BY US ) and wait for everything to load.
+
+# UNDERSTANDING DEV UEFN!
+
+The Patched Unreal editor for fortnite should not be used to change your normal editor settings, or apperence. ( with no execptions ) changing anything will break your fortnite perminatly- making it unable to revert, and no matter what you do , youll be unable to change it even after unistalling, and reinstalling/ wiping you PC, because it effects account settings, and code lines perminatly.
+
+The unreal editor should not be used to hack into fortnite, this is only to view materials, models, blueprints, effects, sounds, and sequences. not hack and steal information ( not that you can even do that )
+
+# INJECTING OLD VERSIONS 101
+
+Injecting for beginers is prohibited, Following that you might change settings or click something you are not supposed to click.
+
+# INJECTING 102
+
+Please use the provided UNREAL ENGINE 5_5 INJECTOR
+AND PATCHED UEFN UNLOCKER PROVIDED WHEN YOU LEVEL UP ( AND EARN / UNLOCK IT )
+
+When you launch the patched UEFN EXE, Launch Uclient, and select the ( unreal editor fortnite game ) Version
+select the UEFN ( PATCHED ) Unlocker file below that, and Select INJECT!
+
+Wait for patched / DEV Editor to load, and use as normal.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
