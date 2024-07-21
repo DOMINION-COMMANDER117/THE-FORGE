@@ -1,7 +1,7 @@
 # THE-FORGE
 Welcome to The Forge repository! This project enhances community engagement and server management for our Discord server, 'The Forge.' Features include automated user verification, event management, content sharing, performance monitoring, and Discord API integration. Join us to collaborate and contribute!
 
-Introduction
+# Introduction
 Welcome to The Forge repository! The Forge is a dedicated Discord server where we share Fortnite assets and provide downloads for various tools such as Fortnite porting, FMODEL, and many other third-party utilities. Our server is designed to support and enhance the Fortnite modding and content creation community by offering:
 
 Fortnite Assets: A comprehensive library of Fortnite assets available for download.
