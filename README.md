@@ -421,6 +421,7 @@ Below you will find every build archive we have, along with the download links. 
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
+![Uploading Fortnite2Fpatch-notes2Fv6-002Fbr-header-v6-002FBR06_News_Featured_16_9_ReleaseNotes-1920x1080-9a66a68e6061577160f354858e3e13d80eda6886.png…]()
 
 
 </head>
