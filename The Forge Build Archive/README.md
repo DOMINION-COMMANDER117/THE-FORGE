@@ -788,6 +788,7 @@ Below you will find every build archive we have, along with the download links. 
 
 > # NEW WORLD
 
+![Fortnite-blog-fortnite-chapter-2-update-whats-new-11BR_Launch_News_PatchNotes_Header_v2-1920x1080-b2f19d835444e7e3923974ca9a60f13f261bc91f](https://github.com/user-attachments/assets/014596bd-43d6-4421-b90e-b2d56bdbb462)
 
 
 
