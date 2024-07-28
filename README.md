@@ -278,7 +278,8 @@ Below you will find every build archive we have, along with the download links. 
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
  
 
-![DcCUVDZX4AAsUXe jpg-large](https://github.com/user-attachments/assets/0d559032-88ca-4740-b28f-d0226d8bfdab)
+![Fortnite2Fblog2Fv4-0-patch-notes2FBattlePass_Header-1920x1080-1a07125f2796ddf6bb807b9fd82b28caabe06cc7](https://github.com/user-attachments/assets/673becdc-edab-4825-be3e-d32a79124824)
+
 
 
 
