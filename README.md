@@ -7,7 +7,10 @@ Welcome to The Forge repository! The Forge is a dedicated Discord server where w
 Below you will find every build archive we have, along with the download links. you will also find our heightmaps archive, and other links as you approch the bottom.
 
 
-# FORTNITE FORGE BUILDS ARCHIVE
+# FORTNITE FORGE BUILDS ARCHIVE 
+
+> # CHAPTER 1 
+
 
 <!DOCTYPE html>
 <html lang="en">
@@ -17,7 +20,191 @@ Below you will find every build archive we have, along with the download links. 
     
 </head>
 <body>
-    <h2>CHAPTER 1 SEASON 1-X </h2>
+    <h2>SEASON 0 </h2>
+    <table class="data-table">
+        <thead>
+            <tr>
+                <th>Build</th>
+                <th>Date</th>
+                <th>Engine Version</th>
+                <th>Download links</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1.7.2-CL-3700114</td>
+                <td>17-10-17</td>
+                <td>UE4.16-3700114</td>
+                <td><a href="https://public.simplyblk.xyz/1.7.2.zip">https://public.simplyblk.xyz/1.7.2.zip</a></td>
+            </tr>
+            <tr>
+                <td>1.8-CL-3724489</td>
+                <td>25-10-17</td>
+                <td>UE4.16-3724489</td>
+                <td><a href="https://public.simplyblk.xyz/1.8.rar">https://public.simplyblk.xyz/1.8.rar</a></td>
+            </tr>
+            <tr>
+                <td>1.8.1-CL-3729133</td>
+                <td>02-11-17</td>
+                <td>UE4.16-3729133</td>
+                <td><a href="https://public.simplyblk.xyz/1.8.1.rar">https://public.simplyblk.xyz/1.8.1.rar</a></td>
+            </tr>
+            <tr>
+                <td>1.8.2-CL-3741772</td>
+                <td>08-11-17</td>
+                <td>UE4.16-3741772</td>
+                <td><a href="https://public.simplyblk.xyz/1.8.2.rar">https://public.simplyblk.xyz/1.8.2.rar</a></td>
+            </tr>
+            <tr>
+                <td>1.9-CL-3757339</td>
+                <td>14-11-17</td>
+                <td>UE4.16-3757339</td>
+                <td><a href="https://public.simplyblk.xyz/1.9.rar">https://public.simplyblk.xyz/1.9.rar</a></td>
+            </tr>
+            <tr>
+                <td>1.9.1-CL-3775276</td>
+                <td>29-11-17</td>
+                <td>UE4.16-3775276</td>
+                <td><a href="https://public.simplyblk.xyz/1.9.1.rar">https://public.simplyblk.xyz/1.9.1.rar</a></td>
+            </tr>
+            <tr>
+                <td>1.10-CL-3790078</td>
+                <td>06-12-17</td>
+                <td>UE4.19-3790078</td>
+                <td><a href="https://public.simplyblk.xyz/1.10.rar">https://public.simplyblk.xyz/1.10.rar</a></td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+</html>
+
+    
+</head>
+<body>
+    <h2>SEASON 1 </h2>
+    <table class="data-table">
+        <thead>
+            <tr>
+                <th>Build</th>
+                <th>Date</th>
+                <th>Engine Version</th>
+                <th>Download links</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1.7.2-CL-3700114</td>
+                <td>17-10-17</td>
+                <td>UE4.16-3700114</td>
+                <td><a href="https://public.simplyblk.xyz/1.7.2.zip">https://public.simplyblk.xyz/1.7.2.zip</a></td>
+            </tr>
+            <tr>
+                <td>1.8-CL-3724489</td>
+                <td>25-10-17</td>
+                <td>UE4.16-3724489</td>
+                <td><a href="https://public.simplyblk.xyz/1.8.rar">https://public.simplyblk.xyz/1.8.rar</a></td>
+            </tr>
+            <tr>
+                <td>1.8.1-CL-3729133</td>
+                <td>02-11-17</td>
+                <td>UE4.16-3729133</td>
+                <td><a href="https://public.simplyblk.xyz/1.8.1.rar">https://public.simplyblk.xyz/1.8.1.rar</a></td>
+            </tr>
+            <tr>
+                <td>1.8.2-CL-3741772</td>
+                <td>08-11-17</td>
+                <td>UE4.16-3741772</td>
+                <td><a href="https://public.simplyblk.xyz/1.8.2.rar">https://public.simplyblk.xyz/1.8.2.rar</a></td>
+            </tr>
+            <tr>
+                <td>1.9-CL-3757339</td>
+                <td>14-11-17</td>
+                <td>UE4.16-3757339</td>
+                <td><a href="https://public.simplyblk.xyz/1.9.rar">https://public.simplyblk.xyz/1.9.rar</a></td>
+            </tr>
+            <tr>
+                <td>1.9.1-CL-3775276</td>
+                <td>29-11-17</td>
+                <td>UE4.16-3775276</td>
+                <td><a href="https://public.simplyblk.xyz/1.9.1.rar">https://public.simplyblk.xyz/1.9.1.rar</a></td>
+            </tr>
+            <tr>
+                <td>1.10-CL-3790078</td>
+                <td>06-12-17</td>
+                <td>UE4.19-3790078</td>
+                <td><a href="https://public.simplyblk.xyz/1.10.rar">https://public.simplyblk.xyz/1.10.rar</a></td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+</html>
+
+    
+</head>
+<body>
+    <h2>SEASON 2 </h2>
+    <table class="data-table">
+        <thead>
+            <tr>
+                <th>Build</th>
+                <th>Date</th>
+                <th>Engine Version</th>
+                <th>Download links</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1.7.2-CL-3700114</td>
+                <td>17-10-17</td>
+                <td>UE4.16-3700114</td>
+                <td><a href="https://public.simplyblk.xyz/1.7.2.zip">https://public.simplyblk.xyz/1.7.2.zip</a></td>
+            </tr>
+            <tr>
+                <td>1.8-CL-3724489</td>
+                <td>25-10-17</td>
+                <td>UE4.16-3724489</td>
+                <td><a href="https://public.simplyblk.xyz/1.8.rar">https://public.simplyblk.xyz/1.8.rar</a></td>
+            </tr>
+            <tr>
+                <td>1.8.1-CL-3729133</td>
+                <td>02-11-17</td>
+                <td>UE4.16-3729133</td>
+                <td><a href="https://public.simplyblk.xyz/1.8.1.rar">https://public.simplyblk.xyz/1.8.1.rar</a></td>
+            </tr>
+            <tr>
+                <td>1.8.2-CL-3741772</td>
+                <td>08-11-17</td>
+                <td>UE4.16-3741772</td>
+                <td><a href="https://public.simplyblk.xyz/1.8.2.rar">https://public.simplyblk.xyz/1.8.2.rar</a></td>
+            </tr>
+            <tr>
+                <td>1.9-CL-3757339</td>
+                <td>14-11-17</td>
+                <td>UE4.16-3757339</td>
+                <td><a href="https://public.simplyblk.xyz/1.9.rar">https://public.simplyblk.xyz/1.9.rar</a></td>
+            </tr>
+            <tr>
+                <td>1.9.1-CL-3775276</td>
+                <td>29-11-17</td>
+                <td>UE4.16-3775276</td>
+                <td><a href="https://public.simplyblk.xyz/1.9.1.rar">https://public.simplyblk.xyz/1.9.1.rar</a></td>
+            </tr>
+            <tr>
+                <td>1.10-CL-3790078</td>
+                <td>06-12-17</td>
+                <td>UE4.19-3790078</td>
+                <td><a href="https://public.simplyblk.xyz/1.10.rar">https://public.simplyblk.xyz/1.10.rar</a></td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+</html>
+
+
+    
+</head>
+<body>
+    <h2> SEASON 3 </h2>
     <table class="data-table">
         <thead>
             <tr>
@@ -81,217 +268,13 @@ Below you will find every build archive we have, along with the download links. 
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<body>
+  https:
     
 </head>
 <body>
-    <h2>CHAPTER 2  </h2>
-    <table class="data-table">
-        <thead>
-            <tr>
-                <th>Build</th>
-                <th>Date</th>
-                <th>Engine Version</th>
-                <th>Download links</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td>1.7.2-CL-3700114</td>
-                <td>17-10-17</td>
-                <td>UE4.16-3700114</td>
-                <td><a href="https://public.simplyblk.xyz/1.7.2.zip">https://public.simplyblk.xyz/1.7.2.zip</a></td>
-            </tr>
-            <tr>
-                <td>1.8-CL-3724489</td>
-                <td>25-10-17</td>
-                <td>UE4.16-3724489</td>
-                <td><a href="https://public.simplyblk.xyz/1.8.rar">https://public.simplyblk.xyz/1.8.rar</a></td>
-            </tr>
-            <tr>
-                <td>1.8.1-CL-3729133</td>
-                <td>02-11-17</td>
-                <td>UE4.16-3729133</td>
-                <td><a href="https://public.simplyblk.xyz/1.8.1.rar">https://public.simplyblk.xyz/1.8.1.rar</a></td>
-            </tr>
-            <tr>
-                <td>1.8.2-CL-3741772</td>
-                <td>08-11-17</td>
-                <td>UE4.16-3741772</td>
-                <td><a href="https://public.simplyblk.xyz/1.8.2.rar">https://public.simplyblk.xyz/1.8.2.rar</a></td>
-            </tr>
-            <tr>
-                <td>1.9-CL-3757339</td>
-                <td>14-11-17</td>
-                <td>UE4.16-3757339</td>
-                <td><a href="https://public.simplyblk.xyz/1.9.rar">https://public.simplyblk.xyz/1.9.rar</a></td>
-            </tr>
-            <tr>
-                <td>1.9.1-CL-3775276</td>
-                <td>29-11-17</td>
-                <td>UE4.16-3775276</td>
-                <td><a href="https://public.simplyblk.xyz/1.9.1.rar">https://public.simplyblk.xyz/1.9.1.rar</a></td>
-            </tr>
-            <tr>
-                <td>1.10-CL-3790078</td>
-                <td>06-12-17</td>
-                <td>UE4.19-3790078</td>
-                <td><a href="https://public.simplyblk.xyz/1.10.rar">https://public.simplyblk.xyz/1.10.rar</a></td>
-            </tr>
-        </tbody>
-    </table>
-</body>
-</html>
-
-
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
-</head>
-<body>
-    <h2>CHAPTER 3 </h2>
-    <table class="data-table">
-        <thead>
-            <tr>
-                <th>Build</th>
-                <th>Date</th>
-                <th>Engine Version</th>
-                <th>Download links</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td>1.7.2-CL-3700114</td>
-                <td>17-10-17</td>
-                <td>UE4.16-3700114</td>
-                <td><a href="https://public.simplyblk.xyz/1.7.2.zip">https://public.simplyblk.xyz/1.7.2.zip</a></td>
-            </tr>
-            <tr>
-                <td>1.8-CL-3724489</td>
-                <td>25-10-17</td>
-                <td>UE4.16-3724489</td>
-                <td><a href="https://public.simplyblk.xyz/1.8.rar">https://public.simplyblk.xyz/1.8.rar</a></td>
-            </tr>
-            <tr>
-                <td>1.8.1-CL-3729133</td>
-                <td>02-11-17</td>
-                <td>UE4.16-3729133</td>
-                <td><a href="https://public.simplyblk.xyz/1.8.1.rar">https://public.simplyblk.xyz/1.8.1.rar</a></td>
-            </tr>
-            <tr>
-                <td>1.8.2-CL-3741772</td>
-                <td>08-11-17</td>
-                <td>UE4.16-3741772</td>
-                <td><a href="https://public.simplyblk.xyz/1.8.2.rar">https://public.simplyblk.xyz/1.8.2.rar</a></td>
-            </tr>
-            <tr>
-                <td>1.9-CL-3757339</td>
-                <td>14-11-17</td>
-                <td>UE4.16-3757339</td>
-                <td><a href="https://public.simplyblk.xyz/1.9.rar">https://public.simplyblk.xyz/1.9.rar</a></td>
-            </tr>
-            <tr>
-                <td>1.9.1-CL-3775276</td>
-                <td>29-11-17</td>
-                <td>UE4.16-3775276</td>
-                <td><a href="https://public.simplyblk.xyz/1.9.1.rar">https://public.simplyblk.xyz/1.9.1.rar</a></td>
-            </tr>
-            <tr>
-                <td>1.10-CL-3790078</td>
-                <td>06-12-17</td>
-                <td>UE4.19-3790078</td>
-                <td><a href="https://public.simplyblk.xyz/1.10.rar">https://public.simplyblk.xyz/1.10.rar</a></td>
-            </tr>
-        </tbody>
-    </table>
-</body>
-</html>
-
-
-
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
-</head>
-<body>
-    <h2>CHAPTER 4  </h2>
-    <table class="data-table">
-        <thead>
-            <tr>
-                <th>Build</th>
-                <th>Date</th>
-                <th>Engine Version</th>
-                <th>Download links</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td>1.7.2-CL-3700114</td>
-                <td>17-10-17</td>
-                <td>UE4.16-3700114</td>
-                <td><a href="https://public.simplyblk.xyz/1.7.2.zip">https://public.simplyblk.xyz/1.7.2.zip</a></td>
-            </tr>
-            <tr>
-                <td>1.8-CL-3724489</td>
-                <td>25-10-17</td>
-                <td>UE4.16-3724489</td>
-                <td><a href="https://public.simplyblk.xyz/1.8.rar">https://public.simplyblk.xyz/1.8.rar</a></td>
-            </tr>
-            <tr>
-                <td>1.8.1-CL-3729133</td>
-                <td>02-11-17</td>
-                <td>UE4.16-3729133</td>
-                <td><a href="https://public.simplyblk.xyz/1.8.1.rar">https://public.simplyblk.xyz/1.8.1.rar</a></td>
-            </tr>
-            <tr>
-                <td>1.8.2-CL-3741772</td>
-                <td>08-11-17</td>
-                <td>UE4.16-3741772</td>
-                <td><a href="https://public.simplyblk.xyz/1.8.2.rar">https://public.simplyblk.xyz/1.8.2.rar</a></td>
-            </tr>
-            <tr>
-                <td>1.9-CL-3757339</td>
-                <td>14-11-17</td>
-                <td>UE4.16-3757339</td>
-                <td><a href="https://public.simplyblk.xyz/1.9.rar">https://public.simplyblk.xyz/1.9.rar</a></td>
-            </tr>
-            <tr>
-                <td>1.9.1-CL-3775276</td>
-                <td>29-11-17</td>
-                <td>UE4.16-3775276</td>
-                <td><a href="https://public.simplyblk.xyz/1.9.1.rar">https://public.simplyblk.xyz/1.9.1.rar</a></td>
-            </tr>
-            <tr>
-                <td>1.10-CL-3790078</td>
-                <td>06-12-17</td>
-                <td>UE4.19-3790078</td>
-                <td><a href="https://public.simplyblk.xyz/1.10.rar">https://public.simplyblk.xyz/1.10.rar</a></td>
-            </tr>
-        </tbody>
-    </table>
-</body>
-</html>
-
-
-
-
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
-</head>
-<body>
-    <h2>CHAPTER 5  </h2>
+    <h2> SEASON 4 [ BRACE FOR IMPACT! ] </h2>
     <table class="data-table">
         <thead>
             <tr>
@@ -355,66 +338,8 @@ Below you will find every build archive we have, along with the download links. 
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
-</head>
-<body>
-    <h2> PARTY ROYAL  </h2>
-    <table class="data-table">
-        <thead>
-            <tr>
-                <th>Build</th>
-                <th>Date</th>
-                <th>Engine Version</th>
-                <th>Download links</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td>1.7.2-CL-3700114</td>
-                <td>17-10-17</td>
-                <td>UE4.16-3700114</td>
-                <td><a href="https://public.simplyblk.xyz/1.7.2.zip">https://public.simplyblk.xyz/1.7.2.zip</a></td>
-            </tr>
-            <tr>
-                <td>1.8-CL-3724489</td>
-                <td>25-10-17</td>
-                <td>UE4.16-3724489</td>
-                <td><a href="https://public.simplyblk.xyz/1.8.rar">https://public.simplyblk.xyz/1.8.rar</a></td>
-            </tr>
-            <tr>
-                <td>1.8.1-CL-3729133</td>
-                <td>02-11-17</td>
-                <td>UE4.16-3729133</td>
-                <td><a href="https://public.simplyblk.xyz/1.8.1.rar">https://public.simplyblk.xyz/1.8.1.rar</a></td>
-            </tr>
-            <tr>
-                <td>1.8.2-CL-3741772</td>
-                <td>08-11-17</td>
-                <td>UE4.16-3741772</td>
-                <td><a href="https://public.simplyblk.xyz/1.8.2.rar">https://public.simplyblk.xyz/1.8.2.rar</a></td>
-            </tr>
-            <tr>
-                <td>1.9-CL-3757339</td>
-                <td>14-11-17</td>
-                <td>UE4.16-3757339</td>
-                <td><a href="https://public.simplyblk.xyz/1.9.rar">https://public.simplyblk.xyz/1.9.rar</a></td>
-            </tr>
-            <tr>
-                <td>1.9.1-CL-3775276</td>
-                <td>29-11-17</td>
-                <td>UE4.16-3775276</td>
-                <td><a href="https://public.simplyblk.xyz/1.9.1.rar">https://public.simplyblk.xyz/1.9.1.rar</a></td>
-            </tr>
-            <tr>
-                <td>1.10-CL-3790078</td>
-                <td>06-12-17</td>
-                <td>UE4.19-3790078</td>
-                <td><a href="https://public.simplyblk.xyz/1.10.rar">https://public.simplyblk.xyz/1.10.rar</a></td>
-            </tr>
-        </tbody>
-    </table>
-</body>
-</html>
+
+
 
 
 
