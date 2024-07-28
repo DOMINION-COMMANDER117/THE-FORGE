@@ -18,6 +18,11 @@ Below you will find every build archive we have, along with the download links. 
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     
+
+
+![Fortnite2Fblog2F1-7-1-patch-notes2FFortniteBattleRoyaleKeyArt_NoLogo_1920x439_1507587128915-1920x439-b29cb5ac727d3222febae0abba79ec87ca73ae3a](https://github.com/user-attachments/assets/4917f058-deee-4736-8fb9-eff664485e51)
+
+
 </head>
 <body>
     <h2>SEASON 0 </h2>
