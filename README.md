@@ -206,6 +206,9 @@ Below you will find every build archive we have, along with the download links. 
 </html>
 
 
+![Fortnite2Fblog2Fv3-0-0-patch-notes2FBattlePassKeyArt_Header-1920x400-e54686751ec9ddeab22dbaab03ed1ac733655b30](https://github.com/user-attachments/assets/8a27b213-7814-4dcf-84e1-3b008fb6e54b)
+
+
     
 </head>
 <body>
