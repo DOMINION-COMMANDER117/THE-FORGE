@@ -350,8 +350,8 @@ Below you will find every build archive we have, along with the download links. 
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
+![Fortnite2Fpatch-notes2Fv5-02Fheader-v5-02FBR05_News_Featured_16_9_Launch_Dark-Rift_Release-NOtes-1920x1080-42a41029fc94152d6bb1d03faaa01d92e32da131](https://github.com/user-attachments/assets/e5b5d92e-92bd-4bb5-857e-8738dc246979)
 
-![SigningBackInLoadingScreen](https://github.com/user-attachments/assets/ec45f799-f67d-4520-b81d-fb6a981ac032)
 
 
 </head>
