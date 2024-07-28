@@ -1321,3 +1321,290 @@ Below you will find every build archive we have, along with the download links. 
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+# CHAPTER 3
+
+> # FLIPPED
+
+
+
+</head>
+<body>
+    <h2> SEASON 1 [ FLIPPED ] </h2>
+    <table class="data-table">
+        <thead>
+            <tr>
+                <th>Build</th>
+                <th>Date</th>
+                <th>Engine Version</th>
+                <th>Download links</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1.7.2-CL-3700114</td>
+                <td>17-10-17</td>
+                <td>UE4.16-3700114</td>
+                <td><a </a></td>
+            </tr>
+            <tr>
+                <td>1.8-CL-3724489</td>
+                <td>25-10-17</td>
+                <td>UE4.16-3724489</td>
+                <td><a </a></td>
+            </tr>
+            <tr>
+                <td>1.8.1-CL-3729133</td>
+                <td>02-11-17</td>
+                <td>UE4.16-3729133</td>
+                <td><a </a></td>
+            </tr>
+            <tr>
+                <td>1.8.2-CL-3741772</td>
+                <td>08-11-17</td>
+                <td>UE4.16-3741772</td>
+                <td><a</a></td>
+            </tr>
+            <tr>
+                <td>1.9-CL-3757339</td>
+                <td>14-11-17</td>
+                <td>UE4.16-3757339</td>
+                <td><a </a></td>
+            </tr>
+            <tr>
+                <td>1.9.1-CL-3775276</td>
+                <td>29-11-17</td>
+                <td>UE4.16-3775276</td>
+                <td><a</a></td>
+            </tr>
+            <tr>
+                <td>1.10-CL-3790078</td>
+                <td>06-12-17</td>
+                <td>UE4.19-3790078</td>
+                <td><a </a></td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+</html>
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+
+
+
+</head>
+<body>
+    <h2> SEASON 2 [ RESSISTANCE ] </h2>
+    <table class="data-table">
+        <thead>
+            <tr>
+                <th>Build</th>
+                <th>Date</th>
+                <th>Engine Version</th>
+                <th>Download links</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1.7.2-CL-3700114</td>
+                <td>17-10-17</td>
+                <td>UE4.16-3700114</td>
+                <td><a </a></td>
+            </tr>
+            <tr>
+                <td>1.8-CL-3724489</td>
+                <td>25-10-17</td>
+                <td>UE4.16-3724489</td>
+                <td><a </a></td>
+            </tr>
+            <tr>
+                <td>1.8.1-CL-3729133</td>
+                <td>02-11-17</td>
+                <td>UE4.16-3729133</td>
+                <td><a </a></td>
+            </tr>
+            <tr>
+                <td>1.8.2-CL-3741772</td>
+                <td>08-11-17</td>
+                <td>UE4.16-3741772</td>
+                <td><a</a></td>
+            </tr>
+            <tr>
+                <td>1.9-CL-3757339</td>
+                <td>14-11-17</td>
+                <td>UE4.16-3757339</td>
+                <td><a </a></td>
+            </tr>
+            <tr>
+                <td>1.9.1-CL-3775276</td>
+                <td>29-11-17</td>
+                <td>UE4.16-3775276</td>
+                <td><a</a></td>
+            </tr>
+            <tr>
+                <td>1.10-CL-3790078</td>
+                <td>06-12-17</td>
+                <td>UE4.19-3790078</td>
+                <td><a </a></td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+</html>
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+
+
+</head>
+<body>
+    <h2> SEASON 3 [ VIBIN ] </h2>
+    <table class="data-table">
+        <thead>
+            <tr>
+                <th>Build</th>
+                <th>Date</th>
+                <th>Engine Version</th>
+                <th>Download links</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1.7.2-CL-3700114</td>
+                <td>17-10-17</td>
+                <td>UE4.16-3700114</td>
+                <td><a </a></td>
+            </tr>
+            <tr>
+                <td>1.8-CL-3724489</td>
+                <td>25-10-17</td>
+                <td>UE4.16-3724489</td>
+                <td><a </a></td>
+            </tr>
+            <tr>
+                <td>1.8.1-CL-3729133</td>
+                <td>02-11-17</td>
+                <td>UE4.16-3729133</td>
+                <td><a </a></td>
+            </tr>
+            <tr>
+                <td>1.8.2-CL-3741772</td>
+                <td>08-11-17</td>
+                <td>UE4.16-3741772</td>
+                <td><a</a></td>
+            </tr>
+            <tr>
+                <td>1.9-CL-3757339</td>
+                <td>14-11-17</td>
+                <td>UE4.16-3757339</td>
+                <td><a </a></td>
+            </tr>
+            <tr>
+                <td>1.9.1-CL-3775276</td>
+                <td>29-11-17</td>
+                <td>UE4.16-3775276</td>
+                <td><a</a></td>
+            </tr>
+            <tr>
+                <td>1.10-CL-3790078</td>
+                <td>06-12-17</td>
+                <td>UE4.19-3790078</td>
+                <td><a </a></td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+</html>
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+
+
+
+</head>
+<body>
+    <h2> SEASON 4 [ PARADISE ] </h2>
+    <table class="data-table">
+        <thead>
+            <tr>
+                <th>Build</th>
+                <th>Date</th>
+                <th>Engine Version</th>
+                <th>Download links</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1.7.2-CL-3700114</td>
+                <td>17-10-17</td>
+                <td>UE4.16-3700114</td>
+                <td><a </a></td>
+            </tr>
+            <tr>
+                <td>1.8-CL-3724489</td>
+                <td>25-10-17</td>
+                <td>UE4.16-3724489</td>
+                <td><a </a></td>
+            </tr>
+            <tr>
+                <td>1.8.1-CL-3729133</td>
+                <td>02-11-17</td>
+                <td>UE4.16-3729133</td>
+                <td><a </a></td>
+            </tr>
+            <tr>
+                <td>1.8.2-CL-3741772</td>
+                <td>08-11-17</td>
+                <td>UE4.16-3741772</td>
+                <td><a</a></td>
+            </tr>
+            <tr>
+                <td>1.9-CL-3757339</td>
+                <td>14-11-17</td>
+                <td>UE4.16-3757339</td>
+                <td><a </a></td>
+            </tr>
+            <tr>
+                <td>1.9.1-CL-3775276</td>
+                <td>29-11-17</td>
+                <td>UE4.16-3775276</td>
+                <td><a</a></td>
+            </tr>
+            <tr>
+                <td>1.10-CL-3790078</td>
+                <td>06-12-17</td>
+                <td>UE4.19-3790078</td>
+                <td><a </a></td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+</html>
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
