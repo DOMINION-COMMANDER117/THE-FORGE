@@ -45,6 +45,30 @@ For Google drive click download, and download anyway. Google cant scan files ove
 
 For **MEGA** Enter the **DECRYPTION KEYs** And download, and extract like the rest ( This Platform does require many extra steps but secures your files :D )
 
+> # GETING YOUR ASSET TO YOUR PROJECT!!!
+**MAKE SURE YOUR PROJECT IS OPEN BEFORE DOING THE NEXT STEPS!!**
+
+Locate the following path ( SHould be the default path for everyoens **UEFN PROJECTS** ) If it is not **LOCATE IT!**
+/Documents/FortniteProjects/(Yourproject)/.plugins/data/**CONTENT**
+
+We need to keep this **DIRECTORY** copied somewhere safe so we dont make 1000 clicks to get to it every time. Save it somewhere you can locate faster then this next time. 
+Next, copy the **MAIN FOLDER** we extracted, do not click into it, just copy it.
+Next go to this directory, and go all the way to content.
+
+**CLICK INTO THE CONTENT FOLDER**
+
+**CLICK THE PASTE BUTTON**
+
+
+IN YOUR UEFN PROJECT, CLICK ALLOW ON THE POP UP, IF NOTHING APEARS YOU MISSED A STEP, OR NOT FOLLOWED INSTRUCTIONS. 
+
+FINALLY, LOCATE THAT BLUE ARROW **CODENAMED** FOLDER AND SEARCH FOR YOUR ASSETS!
+
+
+
+
+
+
 
 
 
