@@ -1145,6 +1145,13 @@ Below you will find every build archive we have, along with the download links. 
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
+
+
+![Ewlm4O5VEAANpMI](https://github.com/user-attachments/assets/7178b1d3-b619-41bd-8278-6aa629190a2a)
+
+
+
+
 </head>
 <body>
     <h2> SEASON 6 [ PRIMAL ] </h2>
