@@ -23,8 +23,27 @@
 
 **NOTICE** That the Title of the Post Is Directly Called what you would **COMMONLY** Call the asset, However the **BLUE** arrow inicates the **CODENAME** **FORTNITE** uses to **HIDE** this asset from **DATA MINERS AND LEAKERS** so that they are unable to find it with ease. This Blue Arrow Will **LATER** Indicate the Name Of the folder that will contain the content in your porject that you import. meaning your **NOT** looking for "robots" Folder, But Rather a **HIGHTOWER** named folder.
 
+**NEXT** Click the Link, ANd download as normal. **DEPENDING** on how large the file is, it can range from seconds to hours. You internet speed also effects the download **SPEED** harshley, try to maintain a decent conection throughout the download process. We dont recomend downloading things during a storm, many of our users become fried files, :) 
 
+**THE TYPES OF FILES THAT WILL APEAR AFTER DOWNLOADING YOUR FILE**
+>
+>.
+>.
+>.
+>.
+>.
+>.
+> **RAR.**
+>**.ZIP.**
+>**7ZIP**
+>**GOOGLE DRIVE**
+>**MEGA ( REQUIRED KEY )**
+>
+>When you download a rar, zip, or 7zip, extract using winrar, windows extractor, or **zZIP** an 3rd Party extracting tool, that you are able to download by searching 7ZIP Extractor.
 
+For Google drive click download, and download anyway. Google cant scan files over a certain size, so please egnor any warnings that pop up. **WE DO NOT POST CURRUPTED FILES**
+
+For **MEGA** Enter the **DECRYPTION KEYs** And download, and extract like the rest ( This Platform does require many extra steps but secures your files :D )
 
 
 
