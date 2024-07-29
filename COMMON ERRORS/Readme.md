@@ -64,7 +64,7 @@ IN YOUR UEFN PROJECT, CLICK ALLOW ON THE POP UP, IF NOTHING APEARS YOU MISSED A 
 
 FINALLY, LOCATE THAT BLUE ARROW **CODENAMED** FOLDER AND SEARCH FOR YOUR ASSETS!
 
-
+Drag and drop, if you have any problems, resort to looking for another **COMMON ERROR** or!,- Resorting to the BUG PAGE!**
 
 
 
