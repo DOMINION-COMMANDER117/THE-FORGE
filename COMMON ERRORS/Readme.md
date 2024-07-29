@@ -16,11 +16,12 @@
 > Read everything that comes before any links in the post, this part of the post describes what important to know about the asset you want. including download size, warnings, and important asset features and data, like whats included, and how it works, or how to edit it.
 > Next find the link, or folder, Highlighted in blue, or you disired default highlight color, show in the image with **RED** arrows. <img width="713" alt="Screenshot 2024-07-29 at 00 11 35" src="https://github.com/user-attachments/assets/52b03065-d73c-4841-8efc-5843be1a841c">
 
+> Indicate The **TITLE** and your **DIRECTIONS** for Use in projects, **COMMONLY** listed Directly ABove the Links for the Folder, or asset. These help you make sure you know how to use the asset, and download it, along with how large the file size is-That way you arent running out of storage, and are able to make sure You **CAN** indeed download this file.
+<img width="713" alt="Screenshot 2024-07-29 at 00 11 35 (3)" src="https://github.com/user-attachments/assets/07252e63-17ab-4a25-8416-8d26cb279e81">
 
 
 
-
-
+**NOTICE** That the Title of the Post Is Directly Called what you would **COMMONLY** Call the asset, However the **BLUE** arrow inicates the **CODENAME** **FORTNITE** uses to **HIDE** this asset from **DATA MINERS AND LEAKERS** so that they are unable to find it with ease. This Blue Arrow Will **LATER** Indicate the Name Of the folder that will contain the content in your porject that you import. meaning your **NOT** looking for "robots" Folder, But Rather a **HIGHTOWER** named folder.
 
 
 
