@@ -714,8 +714,7 @@ Below you will find every build archive we have, along with the download links. 
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-![Fortnite2Fblog2Fseason-x-blog2F10BR_Announce_KeyArt_BlogHeader-1920x1080-aca2c821a0e9ece24d5545ce7171d58f76598013](https://github.com/user-attachments/assets/b13bd407-271b-42e7-841d-450d92c4d394)
-
+![Untitled design-7](https://github.com/user-attachments/assets/baa8a44a-4161-4deb-9a1b-ea8e50742951)
 
 
 </head>
