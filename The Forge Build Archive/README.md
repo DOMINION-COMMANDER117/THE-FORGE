@@ -426,7 +426,8 @@ Below you will find every build archive we have, along with the download links. 
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 
-![Fortnite2Fpatch-notes2Fv6-002Fbr-header-v6-002FBR06_News_Featured_16_9_ReleaseNotes-1920x1080-9a66a68e6061577160f354858e3e13d80eda6886](https://github.com/user-attachments/assets/798b4fb0-281a-4f00-b788-d57345c34e4d)
+
+![Untitled design-2](https://github.com/user-attachments/assets/77cd6d59-ed51-440f-8e88-7834493bfade)
 
 
 </head>
