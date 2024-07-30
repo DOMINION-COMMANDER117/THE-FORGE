@@ -180,37 +180,37 @@ Below you will find every build archive we have, along with the download links. 
         </thead>
         <tbody>
             <tr>
-                <td>1.0.0</td>
+                <td>2.0.0</td>
                 <td> UE4.00</td>
                 <td><a href= </a>UNAVALIBLE AT THIS TIME</td>
             </tr>
             <tr>
-                <td>1.1.0</td>
+                <td>2.1.0</td>
                 <td>UE4.00</td>
                 <td><a href= </a>UNAVALIBLE AT THIS TIME</td>
             </tr>
             <tr>
-                <td>1.2.0</td>
+                <td>2.2.0</td>
                 <td>UE4.00</td>
                 <td><a href= </a>UNAVALIBLE AT THIS TIME</td>
             </tr>
             <tr>
-                <td>1.3.0</td>
+                <td>2.3.0</td>
                 <td>UE4.00</td>
                 <td><a href= </a>UNAVALIBLE AT THIS TIME</td>
             </tr>
             <tr>
-                <td>1.4.0</td>
+                <td>2.4.0</td>
                 <td>UE4.00</td>
                 <td><a href= </a>UNAVALIBLE AT THIS TIME</td>
             </tr>
             <tr>
-                <td>1.5.0</td>
+                <td>2.5.0</td>
                 <td>UE4.00</td>
                 <td><a href= </a>UNAVALIBLE AT THIS TIME</td>
             </tr>
             <tr>
-                <td>1.6.0</td>
+                <td>2.6.0</td>
                 <td>UE4.00</td>
                 <td><a href= </a>UNAVALIBLE AT THIS TIME</td>
             </tr>
