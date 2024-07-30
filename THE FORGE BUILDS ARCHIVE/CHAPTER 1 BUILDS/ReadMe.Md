@@ -732,7 +732,7 @@ Below you will find every build archive we have, along with the download links. 
 </head>
 <body>
     <h2>SEASON x   </h2>
-> # CHAPTER GRAND FINALE
+> CHAPTER GRAND FINALE
     <table class="data-table">
         <thead>
             <tr>
