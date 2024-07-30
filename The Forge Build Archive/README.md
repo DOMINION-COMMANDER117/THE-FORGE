@@ -643,8 +643,7 @@ Below you will find every build archive we have, along with the download links. 
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 
-
-![Z](https://github.com/user-attachments/assets/8789d421-0414-4816-9b10-057dc96f8eae)
+![Untitled design-6](https://github.com/user-attachments/assets/09bdd2d9-7190-45ad-88bf-d0ac786b36e7)
 
 
 
