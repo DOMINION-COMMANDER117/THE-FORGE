@@ -571,3 +571,78 @@ Below you will find every build archive we have, along with the download links. 
     </table>
 </body>
 </html>
+
+
+
+
+![Untitled design-3](https://github.com/user-attachments/assets/f7407492-11e0-4c34-8df0-9750662249e0)
+
+
+
+
+
+
+
+
+
+
+
+</head>
+<body>
+    <h2>SEASON 8    </h2>
+    <table class="data-table">
+        <thead>
+            <tr>
+                <th>RELEASE DATE AND END DATE : 7-12-18‎‎ ‎ ‎ ‎ ‎ -‎ ‎ ‎ ‎ ‎9-26-18 </th> <table class="data-table">
+        <thead>
+            <tr>
+                <th> TITLE : X MARKS THE SPOT! </th>
+    <table class="data-table">
+        <thead>
+            <tr>
+                <th>BUILD</th>
+                <th>ENGINE VERSION</th>
+                <th>DOWNLOAD LINKs</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>8.0.0</td>
+                <td> UE4.00</td>
+                <td><a href= </a>UNAVALIBLE AT THIS TIME</td>
+            </tr>
+            <tr>
+                <td>8.1.0</td>
+                <td>UE4.00</td>
+                <td><a href= </a>UNAVALIBLE AT THIS TIME</td>
+            </tr>
+            <tr>
+                <td>8.2.0</td>
+                <td>UE4.00</td>
+                <td><a href= </a>UNAVALIBLE AT THIS TIME</td>
+            </tr>
+            <tr>
+                <td>8.3.0</td>
+                <td>UE4.00</td>
+                <td><a href= </a>UNAVALIBLE AT THIS TIME</td>
+            </tr>
+            <tr>
+                <td>8.4.0</td>
+                <td>UE4.00</td>
+                <td><a href= </a>UNAVALIBLE AT THIS TIME</td>
+            </tr>
+            <tr>
+                <td>8.5.0</td>
+                <td>UE4.00</td>
+                <td><a href= </a>UNAVALIBLE AT THIS TIME</td>
+            </tr>
+            <tr>
+                <td>8.6.0</td>
+                <td>UE4.00</td>
+                <td><a href= </a>UNAVALIBLE AT THIS TIME</td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+</html>
+
