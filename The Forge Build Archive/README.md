@@ -162,43 +162,43 @@ Below you will find every build archive we have, along with the download links. 
         </thead>
         <tbody>
             <tr>
-                <td>1.7.2-CL-3700114</td>
+                <td>2.0.0-CL-3700114</td>
                 <td>17-10-17</td>
                 <td>UE4.00</td>
                 <td><a href= </a>UNAVALIBLE AT THIS TIME</td>
             </tr>
             <tr>
-                <td>1.8-CL-3724489</td>
+                <td>2.1.0-CL-3700114</td>
                 <td>25-10-17</td>
                 <td>UE4.00</td>
                 <td><a href= </a>UNAVALIBLE AT THIS TIME</td>
             </tr>
             <tr>
-                <td>1.8.1-CL-3729133</td>
+                <td>2.2.0-CL-3700114</td>
                 <td>02-11-17</td>
                 <td>UE4.00</td>
                 <td><a href= </a>UNAVALIBLE AT THIS TIME</td>
             </tr>
             <tr>
-                <td>1.8.2-CL-3741772</td>
+                <td>2.3.0-CL-3700114</td>
                 <td>08-11-17</td>
                 <td>UE4.00</td>
                 <td><a href= </a>UNAVALIBLE AT THIS TIME</td>
             </tr>
             <tr>
-                <td>1.9-CL-3757339</td>
+                <td>2.4.0-CL-3700114</td>
                 <td>14-11-17</td>
                 <td>UE4.00</td>
                 <td><a href= </a>UNAVALIBLE AT THIS TIME</td>
             </tr>
             <tr>
-                <td>1.9.1-CL-3775276</td>
+                <td>2.5.0-CL-3700114</td>
                 <td>29-11-17</td>
                 <td>UE4.00</td>
                 <td><a href= </a>UNAVALIBLE AT THIS TIME</td>
             </tr>
             <tr>
-                <td>1.10-CL-3790078</td>
+                <td>2.6.0-CL-3700114</td>
                 <td>06-12-17</td>
                 <td>UE4.00</td>
                 <td><a href= </a>UNAVALIBLE AT THIS TIME</td>
