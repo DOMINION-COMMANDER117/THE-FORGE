@@ -788,3 +788,39 @@ Below you will find every build archive we have, along with the download links. 
 </body>
 </html>
 
+
+
+
+
+
+
+**DISCLAIMER** 
+No Builds From chapter 1 Use World Partion Grids Or maps.
+
+All Live events will be in the last ( extended update of that season )
+EX : Normal seasons Go to .5 or .4
+LIVE EVENT Seasons go to .51. 6 or More then the normal max of updates.
+
+
+Use Fmodel To extract liev event content, WIth the CodeNames.
+Use UE 4.22 FOR TEXTURES
+Use UE 4.23 FOR MODELS AND BLUEPRINTS< LEVELS AND UMAPS.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
