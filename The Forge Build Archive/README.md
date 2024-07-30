@@ -38,43 +38,43 @@ Below you will find every build archive we have, along with the download links. 
         <tbody>
             <tr>
                 <td>0.0.0</td>
-                <td>17-10-17</td>
+                <td>9-12-17‎‎ ‎ ‎ ‎ ‎ -‎ ‎ ‎ ‎ ‎10-27-17</td>
                 <td> UE4.00</td>
                 <td><a href= </a>UNAVALIBLE AT THIS TIME</td>
             </tr>
             <tr>
                 <td>0.1.0</td>
-                <td>25-10-17</td>
+                <td>9-12-17‎‎ ‎ ‎ ‎ ‎ -‎ ‎ ‎ ‎ ‎10-27-17</td>
                 <td>UE4.00</td>
                 <td><a href= </a>UNAVALIBLE AT THIS TIME</td>
             </tr>
             <tr>
                 <td>0.2.0</td>
-                <td>02-11-17</td>
+                <td>9-12-17‎‎ ‎ ‎ ‎ ‎ -‎ ‎ ‎ ‎ ‎10-27-17</td>
                 <td>UE4.00</td>
                 <td><a href= </a>UNAVALIBLE AT THIS TIME</td>
             </tr>
             <tr>
                 <td>0.3.0</td>
-                <td>08-11-17</td>
-                <td>UE4.00</td>
-                <td><a href= </a>UNAVALIBLE AT THIS TIME</td>
-            </tr>
-            <tr>
-                <td>0.3.0</td>
-                <td>14-11-17</td>
+                <td>9-12-17‎‎ ‎ ‎ ‎ ‎ -‎ ‎ ‎ ‎ ‎10-27-17</td>
                 <td>UE4.00</td>
                 <td><a href= </a>UNAVALIBLE AT THIS TIME</td>
             </tr>
             <tr>
                 <td>0.4.0</td>
-                <td>29-11-17</td>
+                <td>9-12-17‎‎ ‎ ‎ ‎ ‎ -‎ ‎ ‎ ‎ ‎10-27-17</td>
                 <td>UE4.00</td>
                 <td><a href= </a>UNAVALIBLE AT THIS TIME</td>
             </tr>
             <tr>
                 <td>0.5.0</td>
-                <td>06-12-17</td>
+                <td>9-12-17‎‎ ‎ ‎ ‎ ‎ -‎ ‎ ‎ ‎ ‎10-27-17</td>
+                <td>UE4.00</td>
+                <td><a href= </a>UNAVALIBLE AT THIS TIME</td>
+            </tr>
+            <tr>
+                <td>0.6.0</td>
+                <td>9-12-17‎‎ ‎ ‎ ‎ ‎ -‎ ‎ ‎ ‎ ‎10-27-17</td>
                 <td>UE4.00</td>
                 <td><a href= </a>UNAVALIBLE AT THIS TIME</td>
             </tr>
