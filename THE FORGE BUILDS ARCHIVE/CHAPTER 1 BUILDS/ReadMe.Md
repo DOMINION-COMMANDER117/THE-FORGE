@@ -7,6 +7,8 @@ Welcome to The Forge repository! The Forge is a dedicated Discord server where w
 Below you will find every build archive we have, along with the download links. you will also find our heightmaps archive, and other links as you approch the bottom.
 
 
+**IMPORTANT NOTE ( FOR CREDIT AND LICENSE )** : Not **EVERY!!!** link to a biyld is ours, many are shared throughtout the community. We do not claim every link as ours as the amount of storage needed for all these biulds is extremely hard.
+
 # FORTNITE FORGE BUILDS ARCHIVE 
 
 > # CHAPTER 1 
