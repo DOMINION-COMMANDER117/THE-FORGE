@@ -29,10 +29,10 @@ Below you will find every build archive we have, along with the download links. 
     <table class="data-table">
         <thead>
             <tr>
-                <th>Build</th>
-                <th>Date</th>
-                <th>Engine Version</th>
-                <th>Download links</th>
+                <th>BUILD</th>
+                <th>DATE</th>
+                <th>ENGINE VERSION</th>
+                <th>DOWNLOAD LINKs</th>
             </tr>
         </thead>
         <tbody>
