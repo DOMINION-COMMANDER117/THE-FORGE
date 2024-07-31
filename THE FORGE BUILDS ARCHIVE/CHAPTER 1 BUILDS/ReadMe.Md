@@ -468,22 +468,27 @@ Below you will find every build archive we have, along with the download links. 
             <tr>
                 <td>6.0.0</td>
                 <td> UE4.00</td>
-                <td><a href= </a>UNAVALIBLE AT THIS TIME</td>
+                <td><a href= </ahttps://public.simplyblk.xyz/6.00.rar>https://public.simplyblk.xyz/6.00.rar</td>
             </tr>
             <tr>
                 <td>6.1.0</td>
                 <td>UE4.00</td>
-                <td><a href= </a>UNAVALIBLE AT THIS TIME</td>
+                <td><a href= </ahttps://public.simplyblk.xyz/6.10.rar>https://public.simplyblk.xyz/6.10.rar</td>
             </tr>
             <tr>
                 <td>6.2.0</td>
                 <td>UE4.00</td>
                 <td><a href= </a>UNAVALIBLE AT THIS TIME</td>
+           <tr>
+           <tr>
+                <td>6.2.1</td>
+                <td>UE4.00</td>
+                <td><a href= </ahttps://public.simplyblk.xyz/6.21.rar>https://public.simplyblk.xyz/6.21.rar</td>
             </tr>
             <tr>
                 <td>6.3.0</td>
                 <td>UE4.00</td>
-                <td><a href= </a>UNAVALIBLE AT THIS TIME</td>
+                <td><a href= </ahttps://public.simplyblk.xyz/6.30.rar>https://public.simplyblk.xyz/6.30.rar</td>
             </tr>
             <tr>
                 <td>6.4.0</td>
