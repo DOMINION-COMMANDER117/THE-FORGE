@@ -398,27 +398,27 @@ Below you will find every build archive we have, along with the download links. 
             <tr>
                 <td>5.0.0</td>
                 <td> UE4.00</td>
-                <td><a href= </a>UNAVALIBLE AT THIS TIME</td>
+                <td><a href= </ahttps://public.simplyblk.xyz/5.00.rar>https://public.simplyblk.xyz/5.00.rar</td>
             </tr>
             <tr>
                 <td>5.1.0</td>
                 <td>UE4.00</td>
-                <td><a href= </a>UNAVALIBLE AT THIS TIME</td>
+                <td><a href= </ahttps://public.simplyblk.xyz/5.10.rar>https://public.simplyblk.xyz/5.10.rar</td>
             </tr>
             <tr>
                 <td>5.2.0</td>
                 <td>UE4.00</td>
-                <td><a href= </a>UNAVALIBLE AT THIS TIME</td>
+                <td><a href= </ahttps://public.simplyblk.xyz/5.21.rar>https://public.simplyblk.xyz/5.21.rar</td>
             </tr>
             <tr>
                 <td>5.3.0</td>
                 <td>UE4.00</td>
-                <td><a href= </a>UNAVALIBLE AT THIS TIME</td>
+                <td><a href= </ahttps://public.simplyblk.xyz/5.30.rar>https://public.simplyblk.xyz/5.30.rar</td>
             </tr>
             <tr>
                 <td>5.4.0</td>
                 <td>UE4.00</td>
-                <td><a href= </a>UNAVALIBLE AT THIS TIME</td>
+                <td><a href= </ahttps://public.simplyblk.xyz/5.40.rar>https://public.simplyblk.xyz/5.40.rar</td>
             </tr>
             <tr>
                 <td>5.5.0</td>
