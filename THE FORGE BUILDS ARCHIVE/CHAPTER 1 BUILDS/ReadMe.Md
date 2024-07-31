@@ -194,22 +194,22 @@ Below you will find every build archive we have, along with the download links. 
             <tr>
                 <td>2.2.0</td>
                 <td>UE4.00</td>
-                <td><a href= </a>UNAVALIBLE AT THIS TIME</td>
+                <td><a href= </ahttps://public.simplyblk.xyz/2.2.0.rar>https://public.simplyblk.xyz/2.2.0.rar</td>
             </tr>
             <tr>
                 <td>2.3.0</td>
                 <td>UE4.00</td>
-                <td><a href= </a>UNAVALIBLE AT THIS TIME</td>
+                <td><a href= </ahttps://public.simplyblk.xyz/2.3.rar>https://public.simplyblk.xyz/2.3.rar</td>
             </tr>
             <tr>
                 <td>2.4.0</td>
                 <td>UE4.00</td>
-                <td><a href= </a>UNAVALIBLE AT THIS TIME</td>
+                <td><a href= </ahttps://public.simplyblk.xyz/2.4.0.zip>https://public.simplyblk.xyz/2.4.0.zip</td>
             </tr>
             <tr>
                 <td>2.5.0</td>
                 <td>UE4.00</td>
-                <td><a href= </a>UNAVALIBLE AT THIS TIME</td>
+                <td><a href= </ahttps://public.simplyblk.xyz/2.5.0.rar>https://public.simplyblk.xyz/2.5.0.rar</td>
             </tr>
             <tr>
                 <td>2.6.0</td>
