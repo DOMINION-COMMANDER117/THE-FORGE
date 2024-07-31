@@ -189,7 +189,7 @@ Below you will find every build archive we have, along with the download links. 
             <tr>
                 <td>2.1.0</td>
                 <td>UE4.00</td>
-                <td><a href= </a>UNAVALIBLE AT THIS TIME</td>
+                <td><a href= </ahttps://public.simplyblk.xyz/2.1.0.zip>https://public.simplyblk.xyz/2.1.0.zip</td>
             </tr>
             <tr>
                 <td>2.2.0</td>
