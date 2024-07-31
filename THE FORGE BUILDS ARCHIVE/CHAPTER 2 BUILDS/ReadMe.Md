@@ -39,37 +39,37 @@ Below you will find every build archive we have, along with the download links. 
             <tr>
                 <td>11.0.0</td>
                 <td> UE4.00</td>
-                <td><a href= </a>UNAVALIBLE AT THIS TIME</td>
+                <td><a href= </a></td>
             </tr>
             <tr>
                 <td>11.1.0</td>
                 <td>UE4.00</td>
-                <td><a href= </a>UNAVALIBLE AT THIS TIME</td>
+                <td><a href= </a></td>
             </tr>
             <tr>
                 <td>11.2.0</td>
                 <td>UE4.00</td>
-                <td><a href= </a>UNAVALIBLE AT THIS TIME</td>
+                <td><a href= </a></td>
             </tr>
             <tr>
                 <td>11.3.0</td>
                 <td>UE4.00</td>
-                <td><a href= </a>UNAVALIBLE AT THIS TIME</td>
+                <td><a href= </a></td>
             </tr>
             <tr>
                 <td>11.4.0</td>
                 <td>UE4.00</td>
-                <td><a href= </a>UNAVALIBLE AT THIS TIME</td>
+                <td><a href= </a></td>
             </tr>
             <tr>
                 <td>11.5.0</td>
                 <td>UE4.00</td>
-                <td><a href= </a>UNAVALIBLE AT THIS TIME</td>
+                <td><a href= </a></td>
             </tr>
             <tr>
                 <td>11.6.0</td>
                 <td>UE4.00</td>
-                <td><a href= </a>UNAVALIBLE AT THIS TIME</td>
+                <td><a href= </a></td>
             </tr>
         </tbody>
     </table>
