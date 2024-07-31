@@ -14,6 +14,7 @@ Below you will find every build archive we have, along with the download links. 
 > # CHAPTER 2 THE NEW WORLD
 
 
+![Untitled design-9](https://github.com/user-attachments/assets/d97590f3-d17d-48c9-bfd1-a6dbc2d22b3e)
 
 
 </head>
