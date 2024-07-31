@@ -253,22 +253,22 @@ Below you will find every build archive we have, along with the download links. 
             <tr>
                 <td>3.0.0</td>
                 <td> UE4.00</td>
-                <td><a href= </a>UNAVALIBLE AT THIS TIME</td>
+                <td><a href= </ahttps://public.simplyblk.xyz/3.0.zip>https://public.simplyblk.xyz/3.0.zip</td>
             </tr>
             <tr>
                 <td>3.1.0</td>
                 <td>UE4.00</td>
-                <td><a href= </a>UNAVALIBLE AT THIS TIME</td>
+                <td><a href= </ahttps://public.simplyblk.xyz/3.1.rar>https://public.simplyblk.xyz/3.1.rar</td>
             </tr>
             <tr>
                 <td>3.2.0</td>
                 <td>UE4.00</td>
-                <td><a href= </a>UNAVALIBLE AT THIS TIME</td>
+                <td><a href= </ahttps://public.simplyblk.xyz/3.2.zip>https://public.simplyblk.xyz/3.2.zip</td>
             </tr>
             <tr>
                 <td>3.3.0</td>
                 <td>UE4.00</td>
-                <td><a href= </a>UNAVALIBLE AT THIS TIME</td>
+                <td><a href= </ahttps://public.simplyblk.xyz/3.3.rar>https://public.simplyblk.xyz/3.3.rar</td>
             </tr>
             <tr>
                 <td>3.4.0</td>
@@ -278,12 +278,12 @@ Below you will find every build archive we have, along with the download links. 
             <tr>
                 <td>3.5.0</td>
                 <td>UE4.00</td>
-                <td><a href= </a>UNAVALIBLE AT THIS TIME</td>
+                <td><a href= </ahttps://public.simplyblk.xyz/3.5.rar>https://public.simplyblk.xyz/3.5.rar</td>
             </tr>
             <tr>
                 <td>3.6.0</td>
                 <td>UE4.00</td>
-                <td><a href= </a>UNAVALIBLE AT THIS TIME</td>
+                <td><a href= </ahttps://public.simplyblk.xyz/3.6.zip>https://public.simplyblk.xyz/3.6.zip</td>
             </tr>
         </tbody>
     </table>
