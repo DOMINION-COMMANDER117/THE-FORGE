@@ -542,27 +542,27 @@ Below you will find every build archive we have, along with the download links. 
             <tr>
                 <td>7.0.0</td>
                 <td> UE4.00</td>
-                <td><a href= </a>UNAVALIBLE AT THIS TIME</td>
+                <td><a href= </ahttps://public.simplyblk.xyz/7.00.rar>https://public.simplyblk.xyz/7.00.rar</td>
             </tr>
             <tr>
                 <td>7.1.0</td>
                 <td>UE4.00</td>
-                <td><a href= </a>UNAVALIBLE AT THIS TIME</td>
+                <td><a href= </ahttps://public.simplyblk.xyz/7.10.rar>https://public.simplyblk.xyz/7.10.rar</td>
             </tr>
             <tr>
                 <td>7.2.0</td>
                 <td>UE4.00</td>
-                <td><a href= </a>UNAVALIBLE AT THIS TIME</td>
+                <td><a href= </ahttps://public.simplyblk.xyz/7.20.rar>https://public.simplyblk.xyz/7.20.rar</td>
             </tr>
             <tr>
                 <td>7.3.0</td>
                 <td>UE4.00</td>
-                <td><a href= </a>UNAVALIBLE AT THIS TIME</td>
+                <td><a href= </ahttps://public.simplyblk.xyz/7.30.zip>https://public.simplyblk.xyz/7.30.zip</td>
             </tr>
             <tr>
                 <td>7.4.0</td>
                 <td>UE4.00</td>
-                <td><a href= </a>UNAVALIBLE AT THIS TIME</td>
+                <td><a href= </ahttps://public.simplyblk.xyz/7.40.rar>https://public.simplyblk.xyz/7.40.rar</td>
             </tr>
             <tr>
                 <td>7.5.0</td>
@@ -616,7 +616,7 @@ Below you will find every build archive we have, along with the download links. 
             <tr>
                 <td>8.0.0</td>
                 <td> UE4.00</td>
-                <td><a href= </a>UNAVALIBLE AT THIS TIME</td>
+                <td><a href= </ahttps://public.simplyblk.xyz/8.00.zip>https://public.simplyblk.xyz/8.00.zip</td>
             </tr>
             <tr>
                 <td>8.1.0</td>
@@ -626,22 +626,27 @@ Below you will find every build archive we have, along with the download links. 
             <tr>
                 <td>8.2.0</td>
                 <td>UE4.00</td>
-                <td><a href= </a>UNAVALIBLE AT THIS TIME</td>
+                <td><a href= </ahttps://public.simplyblk.xyz/8.20.rar>https://public.simplyblk.xyz/8.20.rar</td>
             </tr>
             <tr>
                 <td>8.3.0</td>
                 <td>UE4.00</td>
-                <td><a href= </a>UNAVALIBLE AT THIS TIME</td>
+                <td><a href= </ahttps://public.simplyblk.xyz/8.30.rar>https://public.simplyblk.xyz/8.30.rar</td>
             </tr>
             <tr>
                 <td>8.4.0</td>
                 <td>UE4.00</td>
-                <td><a href= </a>UNAVALIBLE AT THIS TIME</td>
+                <td><a href= </ahttps://public.simplyblk.xyz/8.40.zip>https://public.simplyblk.xyz/8.40.zip</td>
             </tr>
             <tr>
                 <td>8.5.0</td>
                 <td>UE4.00</td>
-                <td><a href= </a>UNAVALIBLE AT THIS TIME</td>
+                <td><a href= </ahttps://public.simplyblk.xyz/8.50.zip>https://public.simplyblk.xyz/8.50.zip</td>
+            </tr>
+            <tr>
+                <td>8.5.1</td>
+                <td>UE4.00</td>
+                <td><a href= </ahttps://public.simplyblk.xyz/8.51.rar>https://public.simplyblk.xyz/8.51.rar</td>
             </tr>
             <tr>
                 <td>8.6.0</td>
