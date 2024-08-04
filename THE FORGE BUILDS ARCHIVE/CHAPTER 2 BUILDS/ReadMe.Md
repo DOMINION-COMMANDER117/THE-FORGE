@@ -543,7 +543,6 @@ Below you will find every build archive we have, along with the download links. 
 </head>
 <body>
     <h2>SEASON 8    </h2>
-> # CHAPTER FINALE
 
     <table class="data-table">
         <thead>
