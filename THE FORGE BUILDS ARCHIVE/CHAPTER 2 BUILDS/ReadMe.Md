@@ -383,3 +383,226 @@ Below you will find every build archive we have, along with the download links. 
     </table>
 </body>
 </html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</head>
+<body>
+    <h2>SEASON 6    </h2>
+    <table class="data-table">
+        <thead>
+            <tr>
+                <th>RELEASE DATE AND END DATE : 3-16-21‎‎ ‎ ‎ ‎ ‎ -‎ ‎ ‎ ‎ ‎6-7-21 </th> <table class="data-table">
+        <thead>
+            <tr>
+                <th> TITLE : PRIMAL </th>
+    <table class="data-table">
+        <thead>
+            <tr>
+                <th>BUILD</th>
+                <th>ENGINE VERSION</th>
+                <th>DOWNLOAD LINKs</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>12.0.0</td>
+                <td> UE4.00</td>
+                <td><a href= </a></td>
+            </tr>
+            <tr>
+                <td>12.1.0</td>
+                <td>UE4.00</td>
+                <td><a href= </a></td>
+            </tr>
+            <tr>
+                <td>12.2.0</td>
+                <td>UE4.00</td>
+                <td><a href= </a></td>
+            </tr>
+            <tr>
+                <td>12.3.0</td>
+                <td>UE4.00</td>
+                <td><a href= </a></td>
+             </tr>
+            <tr>
+                <td>12.31.0</td>
+                <td>UE4.00</td>
+                <td><a href= </a></td>
+            </tr>
+            <tr>
+                <td>12.4.0</td>
+                <td>UE4.00</td>
+                <td><a href= </a></td>
+            </tr>
+            <tr>
+                <td>12.5.0</td>
+                <td>UE4.00</td>
+                <td><a href= </a></td>
+            </tr>
+            <tr>
+                <td>12.6.0</td>
+                <td>UE4.00</td>
+                <td><a href= </a></td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+</head>
+<body>
+    <h2>SEASON 7    </h2>
+    <table class="data-table">
+        <thead>
+            <tr>
+                <th>RELEASE DATE AND END DATE : 6-8-21‎‎ ‎ ‎ ‎ ‎ -‎ ‎ ‎ ‎ ‎9-12-21 </th> <table class="data-table">
+        <thead>
+            <tr>
+                <th> TITLE : INVASION </th>
+    <table class="data-table">
+        <thead>
+            <tr>
+                <th>BUILD</th>
+                <th>ENGINE VERSION</th>
+                <th>DOWNLOAD LINKs</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>12.0.0</td>
+                <td> UE4.00</td>
+                <td><a href= </a></td>
+            </tr>
+            <tr>
+                <td>12.1.0</td>
+                <td>UE4.00</td>
+                <td><a href= </a></td>
+            </tr>
+            <tr>
+                <td>12.2.0</td>
+                <td>UE4.00</td>
+                <td><a href= </a></td>
+            </tr>
+            <tr>
+                <td>12.3.0</td>
+                <td>UE4.00</td>
+                <td><a href= </a></td>
+             </tr>
+            <tr>
+                <td>12.31.0</td>
+                <td>UE4.00</td>
+                <td><a href= </a></td>
+            </tr>
+            <tr>
+                <td>12.4.0</td>
+                <td>UE4.00</td>
+                <td><a href= </a></td>
+            </tr>
+            <tr>
+                <td>12.5.0</td>
+                <td>UE4.00</td>
+                <td><a href= </a></td>
+            </tr>
+            <tr>
+                <td>12.6.0</td>
+                <td>UE4.00</td>
+                <td><a href= </a></td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+</head>
+<body>
+    <h2>SEASON 8    </h2>
+> # CHAPTER FINALE
+
+    <table class="data-table">
+        <thead>
+            <tr>
+                <th>RELEASE DATE AND END DATE : 6-8-21‎‎ ‎ ‎ ‎ ‎ -‎ ‎ ‎ ‎ ‎9-12-21 </th> <table class="data-table">
+        <thead>
+            <tr>
+                <th> TITLE : INVASION </th>
+    <table class="data-table">
+        <thead>
+            <tr>
+                <th>BUILD</th>
+                <th>ENGINE VERSION</th>
+                <th>DOWNLOAD LINKs</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>12.0.0</td>
+                <td> UE4.00</td>
+                <td><a href= </a></td>
+            </tr>
+            <tr>
+                <td>12.1.0</td>
+                <td>UE4.00</td>
+                <td><a href= </a></td>
+            </tr>
+            <tr>
+                <td>12.2.0</td>
+                <td>UE4.00</td>
+                <td><a href= </a></td>
+            </tr>
+            <tr>
+                <td>12.3.0</td>
+                <td>UE4.00</td>
+                <td><a href= </a></td>
+             </tr>
+            <tr>
+                <td>12.31.0</td>
+                <td>UE4.00</td>
+                <td><a href= </a></td>
+            </tr>
+            <tr>
+                <td>12.4.0</td>
+                <td>UE4.00</td>
+                <td><a href= </a></td>
+            </tr>
+            <tr>
+                <td>12.5.0</td>
+                <td>UE4.00</td>
+                <td><a href= </a></td>
+            </tr>
+            <tr>
+                <td>12.6.0</td>
+                <td>UE4.00</td>
+                <td><a href= </a></td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+</html>
+
