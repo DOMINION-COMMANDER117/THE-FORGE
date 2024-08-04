@@ -113,7 +113,7 @@ Below you will find every build archive we have, along with the download links. 
             <tr>
                 <td>11.0.0</td>
                 <td> UE4.00</td>
-                <td><a href= </ahttps://public.simplyblk.xyz/11.00.zip>https://public.simplyblk.xyz/11.00.zip</td>
+                <td><a href= </ahttps://public.simplyblk.xyz/12.00.rar>https://public.simplyblk.xyz/12.00.rar</td>
             </tr>
             <tr>
                 <td>12.1.0</td>
@@ -123,7 +123,7 @@ Below you will find every build archive we have, along with the download links. 
             <tr>
                 <td>12.2.0</td>
                 <td>UE4.00</td>
-                <td><a href= </a></td>
+                <td><a href= </ahttps://public.simplyblk.xyz/12.21.zip>https://public.simplyblk.xyz/12.21.zip</td>
             </tr>
             <tr>
                 <td>12.3.0</td>
@@ -138,17 +138,17 @@ Below you will find every build archive we have, along with the download links. 
             <tr>
                 <td>12.4.0</td>
                 <td>UE4.00</td>
-                <td><a href= </a></td>
+                <td><a href= </ahttps://public.simplyblk.xyz/Fortnite%2012.41.zip>https://public.simplyblk.xyz/Fortnite%2012.41.zip</td>
             </tr>
             <tr>
                 <td>12.5.0</td>
                 <td>UE4.00</td>
-                <td><a href= </a></td>
+                <td><a href= </ahttps://public.simplyblk.xyz/12.50.zip>https://public.simplyblk.xyz/12.50.zip</td>
             </tr>
             <tr>
                 <td>12.6.0</td>
                 <td>UE4.00</td>
-                <td><a href= </a></td>
+                <td><a href= </ahttps://public.simplyblk.xyz/12.61.zip>https://public.simplyblk.xyz/12.61.zip</td>
             </tr>
         </tbody>
     </table>
@@ -186,7 +186,7 @@ Below you will find every build archive we have, along with the download links. 
             <tr>
                 <td>13.0.0</td>
                 <td> UE4.00</td>
-                <td><a href= </a></td>
+                <td><a href= </ahttps://public.simplyblk.xyz/13.00.rar>https://public.simplyblk.xyz/13.00.rar</td>
             </tr>
             <tr>
                 <td>13.1.0</td>
@@ -211,7 +211,7 @@ Below you will find every build archive we have, along with the download links. 
             <tr>
                 <td>13.4.0</td>
                 <td>UE4.00</td>
-                <td><a href= </a></td>
+                <td><a href= </ahttps://public.simplyblk.xyz/13.40.zip>https://public.simplyblk.xyz/13.40.zip</td>
             </tr>
             <tr>
                 <td>13.5.0</td>
@@ -259,7 +259,7 @@ Below you will find every build archive we have, along with the download links. 
             <tr>
                 <td>14.0.0</td>
                 <td> UE4.00</td>
-                <td><a href= </a></td>
+                <td><a href= </ahttps://public.simplyblk.xyz/14.00.rar>https://public.simplyblk.xyz/14.00.rar</td>
             </tr>
             <tr>
                 <td>14.1.0</td>
@@ -284,7 +284,7 @@ Below you will find every build archive we have, along with the download links. 
             <tr>
                 <td>14.4.0</td>
                 <td>UE4.00</td>
-                <td><a href= </a></td>
+                <td><a href= </ahttps://public.simplyblk.xyz/14.40.rar>https://public.simplyblk.xyz/14.40.rar</td>
             </tr>
             <tr>
                 <td>14.5.0</td>
@@ -294,7 +294,7 @@ Below you will find every build archive we have, along with the download links. 
             <tr>
                 <td>14.6.0</td>
                 <td>UE4.00</td>
-                <td><a href= </a></td>
+                <td><a href= </ahttps://public.simplyblk.xyz/14.60.rar>https://public.simplyblk.xyz/14.60.rar</td>
             </tr>
         </tbody>
     </table>
@@ -357,7 +357,7 @@ Below you will find every build archive we have, along with the download links. 
             <tr>
                 <td>15.3.0</td>
                 <td>UE4.00</td>
-                <td><a href= </a></td>
+                <td><a href= </ahttps://public.simplyblk.xyz/15.30.rar>https://public.simplyblk.xyz/15.30.rar</td>
              </tr>
             <tr>
                 <td>15.31.0</td>
@@ -444,7 +444,7 @@ Below you will find every build archive we have, along with the download links. 
             <tr>
                 <td>16.4.0</td>
                 <td>UE4.00</td>
-                <td><a href= </a></td>
+                <td><a href= </ahttps://public.simplyblk.xyz/16.40.rar>https://public.simplyblk.xyz/16.40.rar</td>
             </tr>
             <tr>
                 <td>16.5.0</td>
@@ -507,7 +507,7 @@ Below you will find every build archive we have, along with the download links. 
             <tr>
                 <td>17.3.0</td>
                 <td>UE4.00</td>
-                <td><a href= </a></td>
+                <td><a href= </ahttps://public.simplyblk.xyz/17.30.zip>https://public.simplyblk.xyz/17.30.zip</td>
              </tr>
             <tr>
                 <td>17.31.0</td>
@@ -522,7 +522,7 @@ Below you will find every build archive we have, along with the download links. 
             <tr>
                 <td>17.5.0</td>
                 <td>UE4.00</td>
-                <td><a href= </a></td>
+                <td><a href= </ahttps://public.simplyblk.xyz/17.50.zip>https://public.simplyblk.xyz/17.50.zip</td>
             </tr>
             <tr>
                 <td>17.6.0</td>
@@ -590,7 +590,7 @@ Below you will find every build archive we have, along with the download links. 
             <tr>
                 <td>18.4.0</td>
                 <td>UE4.00</td>
-                <td><a href= </a></td>
+                <td><a href= </ahttps://public.simplyblk.xyz/18.40.zip>https://public.simplyblk.xyz/18.40.zip</td>
             </tr>
             <tr>
                 <td>18.5.0</td>
