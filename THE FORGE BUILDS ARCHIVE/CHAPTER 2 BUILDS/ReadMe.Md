@@ -549,10 +549,10 @@ Below you will find every build archive we have, along with the download links. 
     <table class="data-table">
         <thead>
             <tr>
-                <th>RELEASE DATE AND END DATE : 6-8-21‎‎ ‎ ‎ ‎ ‎ -‎ ‎ ‎ ‎ ‎9-12-21 </th> <table class="data-table">
+                <th>RELEASE DATE AND END DATE : 9-13-21‎‎ ‎ ‎ ‎ ‎ -‎ ‎ ‎ ‎ ‎12-4-21 </th> <table class="data-table">
         <thead>
             <tr>
-                <th> TITLE : INVASION </th>
+                <th> TITLE : CUBED </th>
     <table class="data-table">
         <thead>
             <tr>
