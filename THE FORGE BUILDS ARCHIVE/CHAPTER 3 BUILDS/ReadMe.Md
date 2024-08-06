@@ -54,14 +54,14 @@ Below you will find every build archive we have, along with the download links. 
 
 </head>
 <body>
-    <h2>SEASON 8    </h2>
+    <h2>SEASON 1    </h2>
     <table class="data-table">
         <thead>
             <tr>
-                <th>RELEASE DATE AND END DATE : 9-13-21‎‎ ‎ ‎ ‎ ‎ -‎ ‎ ‎ ‎ ‎12-4-21 </th> <table class="data-table">
+                <th>RELEASE DATE AND END DATE : 12-5-21‎‎ ‎ ‎ ‎ ‎ -‎ ‎ ‎ ‎ ‎3-19-22 </th> <table class="data-table">
         <thead>
             <tr>
-                <th> TITLE : CUBED </th>
+                <th> TITLE : FLIPPED </th>
     <table class="data-table">
         <thead>
             <tr>
@@ -72,42 +72,42 @@ Below you will find every build archive we have, along with the download links. 
         </thead>
         <tbody>
             <tr>
-                <td>18.0.0</td>
+                <td>19.0.0</td>
                 <td> UE4.00</td>
                 <td><a href= </a></td>
             </tr>
             <tr>
-                <td>18.1.0</td>
+                <td>19.1.0</td>
                 <td>UE4.00</td>
                 <td><a href= </a></td>
             </tr>
             <tr>
-                <td>18.2.0</td>
+                <td>19.2.0</td>
                 <td>UE4.00</td>
                 <td><a href= </a></td>
             </tr>
             <tr>
-                <td>18.3.0</td>
+                <td>19.3.0</td>
                 <td>UE4.00</td>
                 <td><a href= </a></td>
              </tr>
             <tr>
-                <td>18.31.0</td>
+                <td>19.31.0</td>
                 <td>UE4.00</td>
                 <td><a href= </a></td>
             </tr>
             <tr>
-                <td>18.4.0</td>
+                <td>19.4.0</td>
                 <td>UE4.00</td>
                 <td><a href= </ahttps://public.simplyblk.xyz/18.40.zip>https://public.simplyblk.xyz/18.40.zip</td>
             </tr>
             <tr>
-                <td>18.5.0</td>
+                <td>19.5.0</td>
                 <td>UE4.00</td>
                 <td><a href= </a></td>
             </tr>
             <tr>
-                <td>18.6.0</td>
+                <td>19.6.0</td>
                 <td>UE4.00</td>
                 <td><a href= </a></td>
             </tr>
