@@ -12,10 +12,7 @@ Below you will find every build archive we have, along with the download links. 
 # FORTNITE FORGE BUILDS ARCHIVE 
 
 > # CHAPTER 3 
- <table class="data-table">
-        <thead>
-            <tr>
-                <th>FLIPPED</th>
+
 
 
 
