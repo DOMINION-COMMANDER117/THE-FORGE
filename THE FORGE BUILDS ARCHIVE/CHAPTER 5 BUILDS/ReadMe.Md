@@ -11,3 +11,8 @@ Below you will find every build archive we have, along with the download links. 
 
 # FORTNITE FORGE BUILDS ARCHIVE 
 
+
+
+
+
+**DUE TO CHAPTER 5 BUILDS SIZES AND STORAGE TIMES** This page will not be avalible until a later date in CHAPTER 5
