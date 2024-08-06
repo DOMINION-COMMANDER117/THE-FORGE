@@ -16,34 +16,20 @@ Below you will find every build archive we have, along with the download links. 
 
 ![1](https://github.com/user-attachments/assets/7a88d803-3826-46de-a038-04bb48cb4f00)
 
-Be kind: We are Sometimes Nice to you, so there is no reason to be disrespectful or rude of any sort.
- 
-Lend a hand: See someone struggling? Help them out, help teach them something, or give some advice or guidance. ( Staff May not always be available to help ) and do not spam for help. Do not ping staff or beg like an animal for something, we are extremely busy.
 
+Please DO NOT! Steal anything posted here. We remain to having the rights to fully publish **OUR** work here. Stealing it is infrindgement, and breaking our **TOS**
 
-Please do not bring extending problems into the server or Hub, we like to keep a clean community
+Please be respectfull. Do not attempt to destory, duplicate, or hack.
 
-DO NOT Ping staff,  to try to get your problem fixed or get our attention. make arequest ticket, or wait. we are VERY! busy, and also have real lives, and famileys outside our jobs!
+BE PATIENT! Updates on the github can take a **LONG** Time, everything here is custom made, hand made, and designed-We have put lots of effort into it!
 
-Do not post or spam post, or content in any channel, or your permission to use privileges will be revoked.
-( If you keep abusing them- you will be ban )
+Report problmes and bugs, that way we know things are working as they should be. it can be hard when nobody reports anything.
 
-Absolutely no slurs, foul Language or abuse of terms- or political discussion. Take it somewhere else.
+Keep up to date, by following the announcement channel **IN OUR DISCORD**
 
-don't eat in the voice chat (Or at least mute). Nobody wants to hear you chew your food. (Also please don't blow vape clouds into your new Xbox.)
-
-Please, do not spam, or cause fights with mods, aguments, of uneeded, topics or old debates. Pleas restrain from personal attacks, or Ganging up on members. This will be heavily punished, without questions.
-
-Evasion of punishments, circumventing bans, or other methods of sidestepping staff action will result in instant removal.
-
-No NSFW, if it's something you are interested in, then I am sure you already have plenty of servers for it already. Keep it clean in here.
-
-Do not abuse pings. Excessive pings will result in the loss of ability to do so.
-
-Do not try to sell, give away, or host give away sessions in LFG Channels, or Ping anyone for any reason or kind, to host money events in this server.
-
-
-> # THE FORGE SERVICES
+**INVATATION LINK ( PERM** ( [ https://discord.gg/VKQVzXPZUw ] ) )
+     
+ # THE FORGE SERVICES
 
 We provide tools for the fortnite community. Under no right is everything ours, and the provided >COPYRIGHT< Information is in the legal and copyright folders Provided oon our home page of the forge github
 
