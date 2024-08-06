@@ -11,3 +11,34 @@ Below you will find every build archive we have, along with the download links. 
 
 # FORTNITE FORGE BUILDS ARCHIVE 
 
+
+> # CHAPTER 4 [ FORGED ]
+
+
+
+![Untitled design-24](https://github.com/user-attachments/assets/f5d22399-6268-4606-9f62-38ae82d229cb)
+
+
+![Untitled design-25](https://github.com/user-attachments/assets/f2570085-870a-42a0-b515-91b00fb56f67)
+
+
+
+![Untitled design-26](https://github.com/user-attachments/assets/e232cc11-3ef7-4949-8a4f-2f871cf47eee)
+
+
+
+![Untitled design-27](https://github.com/user-attachments/assets/f20263ac-f37e-4aa9-877a-31dccb2c4670)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
