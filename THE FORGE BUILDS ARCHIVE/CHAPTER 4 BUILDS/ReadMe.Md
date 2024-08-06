@@ -18,18 +18,268 @@ Below you will find every build archive we have, along with the download links. 
 
 ![Untitled design-24](https://github.com/user-attachments/assets/f5d22399-6268-4606-9f62-38ae82d229cb)
 
+</head>
+<body>
+    <h2>SEASON 1   </h2>
+    <table class="data-table">
+        <thead>
+            <tr>
+                <th>RELEASE DATE AND END DATE : 12-4-22‎‎ ‎ ‎ ‎ ‎ -‎ ‎ ‎ ‎ ‎3-9-23 </th> <table class="data-table">
+        <thead>
+            <tr>
+                <th> TITLE : FORGED </th>
+    <table class="data-table">
+        <thead>
+            <tr>
+                <th>BUILD</th>
+                <th>ENGINE VERSION</th>
+                <th>DOWNLOAD LINKs</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>23.0.0</td>
+                <td> UE4.00</td>
+                <td><a href= </a></td>
+            </tr>
+            <tr>
+                <td>23.1.0</td>
+                <td>UE4.00</td>
+                <td><a href= </a></td>
+            </tr>
+            <tr>
+                <td>23.2.0</td>
+                <td>UE4.00</td>
+                <td><a href= </a></td>
+            </tr>
+            <tr>
+                <td>23.3.0</td>
+                <td>UE4.00</td>
+                <td><a href= </a></td>
+             </tr>
+            <tr>
+                <td>23.31.0</td>
+                <td>UE4.00</td>
+                <td><a href= </a></td>
+            </tr>
+            <tr>
+                <td>23.4.0</td>
+                <td>UE4.00</td>
+                <td><a href= </a></td>
+            </tr>
+            <tr>
+                <td>23.5.0</td>
+                <td>UE4.00</td>
+                <td><a href= </a></td>
+            </tr>
+            <tr>
+                <td>23.6.0</td>
+                <td>UE4.00</td>
+                <td><a href= </a></td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+</html>
 
 ![Untitled design-25](https://github.com/user-attachments/assets/f2570085-870a-42a0-b515-91b00fb56f67)
 
-
+</head>
+<body>
+    <h2>SEASON 2   </h2>
+    <table class="data-table">
+        <thead>
+            <tr>
+                <th>RELEASE DATE AND END DATE : 3-10-23‎‎ ‎ ‎ ‎ ‎ -‎ ‎ ‎ ‎ 6-8-23 </th> <table class="data-table">
+        <thead>
+            <tr>
+                <th> TITLE : MEGA </th>
+    <table class="data-table">
+        <thead>
+            <tr>
+                <th>BUILD</th>
+                <th>ENGINE VERSION</th>
+                <th>DOWNLOAD LINKs</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>24.0.0</td>
+                <td> UE4.00</td>
+                <td><a href= </a></td>
+            </tr>
+            <tr>
+                <td>24.1.0</td>
+                <td>UE4.00</td>
+                <td><a href= </a></td>
+            </tr>
+            <tr>
+                <td>24.2.0</td>
+                <td>UE4.00</td>
+                <td><a href= </a></td>
+            </tr>
+            <tr>
+                <td>24.3.0</td>
+                <td>UE4.00</td>
+                <td><a href= </a></td>
+             </tr>
+            <tr>
+                <td>24.31.0</td>
+                <td>UE4.00</td>
+                <td><a href= </a></td>
+            </tr>
+            <tr>
+                <td>24.4.0</td>
+                <td>UE4.00</td>
+                <td><a href= </a></td>
+            </tr>
+            <tr>
+                <td>24.5.0</td>
+                <td>UE4.00</td>
+                <td><a href= </a></td>
+            </tr>
+            <tr>
+                <td>24.6.0</td>
+                <td>UE4.00</td>
+                <td><a href= </a></td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+</html>
 
 ![Untitled design-26](https://github.com/user-attachments/assets/e232cc11-3ef7-4949-8a4f-2f871cf47eee)
 
-
+</head>
+<body>
+    <h2>SEASON 3   </h2>
+    <table class="data-table">
+        <thead>
+            <tr>
+                <th>RELEASE DATE AND END DATE : 6-9-23‎‎ ‎ ‎ ‎ ‎ -‎ ‎ ‎ ‎ 8-25-23 </th> <table class="data-table">
+        <thead>
+            <tr>
+                <th> TITLE : WILDS </th>
+    <table class="data-table">
+        <thead>
+            <tr>
+                <th>BUILD</th>
+                <th>ENGINE VERSION</th>
+                <th>DOWNLOAD LINKs</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>25.0.0</td>
+                <td> UE4.00</td>
+                <td><a href= </a></td>
+            </tr>
+            <tr>
+                <td>25.1.0</td>
+                <td>UE4.00</td>
+                <td><a href= </a></td>
+            </tr>
+            <tr>
+                <td>25.2.0</td>
+                <td>UE4.00</td>
+                <td><a href= </a></td>
+            </tr>
+            <tr>
+                <td>25.3.0</td>
+                <td>UE4.00</td>
+                <td><a href= </a></td>
+             </tr>
+            <tr>
+                <td>25.31.0</td>
+                <td>UE4.00</td>
+                <td><a href= </a></td>
+            </tr>
+            <tr>
+                <td>25.4.0</td>
+                <td>UE4.00</td>
+                <td><a href= </a></td>
+            </tr>
+            <tr>
+                <td>25.5.0</td>
+                <td>UE4.00</td>
+                <td><a href= </a></td>
+            </tr>
+            <tr>
+                <td>25.6.0</td>
+                <td>UE4.00</td>
+                <td><a href= </a></td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+</html>
 
 ![Untitled design-27](https://github.com/user-attachments/assets/f20263ac-f37e-4aa9-877a-31dccb2c4670)
 
 
+</head>
+<body>
+    <h2>SEASON 4   </h2>
+    <table class="data-table">
+        <thead>
+            <tr>
+                <th>RELEASE DATE AND END DATE : 8-25-23‎‎ ‎ ‎ ‎ ‎ -‎ ‎ ‎ ‎ 11-3-23 </th> <table class="data-table">
+        <thead>
+            <tr>
+                <th> TITLE : LAST RESORT </th>
+    <table class="data-table">
+        <thead>
+            <tr>
+                <th>BUILD</th>
+                <th>ENGINE VERSION</th>
+                <th>DOWNLOAD LINKs</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>26.0.0</td>
+                <td> UE4.00</td>
+                <td><a href= </a></td>
+            </tr>
+            <tr>
+                <td>26.1.0</td>
+                <td>UE4.00</td>
+                <td><a href= </a></td>
+            </tr>
+            <tr>
+                <td>26.2.0</td>
+                <td>UE4.00</td>
+                <td><a href= </a></td>
+            </tr>
+            <tr>
+                <td>26.3.0</td>
+                <td>UE4.00</td>
+                <td><a href= </a></td>
+             </tr>
+            <tr>
+                <td>26.31.0</td>
+                <td>UE4.00</td>
+                <td><a href= </a></td>
+            </tr>
+            <tr>
+                <td>26.4.0</td>
+                <td>UE4.00</td>
+                <td><a href= </a></td>
+            </tr>
+            <tr>
+                <td>26.5.0</td>
+                <td>UE4.00</td>
+                <td><a href= </a></td>
+            </tr>
+            <tr>
+                <td>26.6.0</td>
+                <td>UE4.00</td>
+                <td><a href= </a></td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+</html>
 
 
 
