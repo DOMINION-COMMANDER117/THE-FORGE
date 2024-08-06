@@ -131,14 +131,14 @@ Below you will find every build archive we have, along with the download links. 
 
 </head>
 <body>
-    <h2>SEASON 1    </h2>
+    <h2>SEASON 2    </h2>
     <table class="data-table">
         <thead>
             <tr>
-                <th>RELEASE DATE AND END DATE : 12-5-21‎‎ ‎ ‎ ‎ ‎ -‎ ‎ ‎ ‎ ‎3-19-22 </th> <table class="data-table">
+                <th>RELEASE DATE AND END DATE : 3-20-22‎‎ ‎ ‎ ‎ ‎ -‎ ‎ ‎ ‎ ‎6-4-22 </th> <table class="data-table">
         <thead>
             <tr>
-                <th> TITLE : FLIPPED </th>
+                <th> TITLE : RESSISTANCE </th>
     <table class="data-table">
         <thead>
             <tr>
@@ -149,42 +149,42 @@ Below you will find every build archive we have, along with the download links. 
         </thead>
         <tbody>
             <tr>
-                <td>19.0.0</td>
+                <td>20.0.0</td>
                 <td> UE4.00</td>
                 <td><a href= </a></td>
             </tr>
             <tr>
-                <td>19.1.0</td>
+                <td>20.1.0</td>
                 <td>UE4.00</td>
                 <td><a href= </a></td>
             </tr>
             <tr>
-                <td>19.2.0</td>
+                <td>20.2.0</td>
                 <td>UE4.00</td>
                 <td><a href= </a></td>
             </tr>
             <tr>
-                <td>19.3.0</td>
+                <td>20.3.0</td>
                 <td>UE4.00</td>
                 <td><a href= </a></td>
              </tr>
             <tr>
-                <td>19.31.0</td>
+                <td>20.31.0</td>
                 <td>UE4.00</td>
                 <td><a href= </a></td>
             </tr>
             <tr>
-                <td>19.4.0</td>
+                <td>20.4.0</td>
                 <td>UE4.00</td>
                 <td><a href= </a></td>
             </tr>
             <tr>
-                <td>19.5.0</td>
+                <td>20.5.0</td>
                 <td>UE4.00</td>
                 <td><a href= </a></td>
             </tr>
             <tr>
-                <td>19.6.0</td>
+                <td>20.6.0</td>
                 <td>UE4.00</td>
                 <td><a href= </a></td>
             </tr>
