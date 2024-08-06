@@ -96,7 +96,7 @@ Below you will find every build archive we have, along with the download links. 
             <tr>
                 <td>19.4.0</td>
                 <td>UE4.00</td>
-                <td><a href= </ahttps://public.simplyblk.xyz/18.40.zip>https://public.simplyblk.xyz/18.40.zip</td>
+                <td><a href= </a></td>
             </tr>
             <tr>
                 <td>19.5.0</td>
