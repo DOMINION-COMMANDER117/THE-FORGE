@@ -12,6 +12,17 @@ Welcome to The Forge repository! The Forge is a dedicated Discord server where w
 Below you will find every build archive we have, along with the download links. you will also find our heightmaps archive, and other links as you approch the bottom.
 
 
+ 
+ <table class="data-table">
+ <thead>
+            <tr>
+                <th>SUPPORT EMAIL</th>
+                </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>EnForcer.Forge@gmail.com</td>
+
 # RULES FOR THE GITHUB
 
 ![1](https://github.com/user-attachments/assets/7a88d803-3826-46de-a038-04bb48cb4f00)
