@@ -8,16 +8,7 @@ Welcome to The Forge repository! This project enhances community engagement and 
 
 
 
- 
- <table class="data-table">
- <thead>
-            <tr>
-                <th>SUPPORT EMAIL</th>
-                </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td>EnForcer.Forge@gmail.com</td>
+
 
                 
 
