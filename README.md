@@ -1,5 +1,12 @@
 # THE-FORGE
 
+<img align="right" width="180" height="180" src="https://raw.githubusercontent.com/GMatrixGames/JsonAsAsset/main/JsonAsAsset/Resources/JAA_Logo.png?raw=true">
+
+[![Discord](https://img.shields.io/badge/Join%20Discord-Collector?color=7289DA&label=JsonAsAsset&logo=discord&logoColor=7289DA&style=for-the-badge)]([https://discord.gg/h9s6qpBnUT](https://discord.gg/VKQVzXPZUw))
+![GitHub Repo stars](https://img.shields.io/github/stars/GMatrixGames/JsonAsAsset?style=for-the-badge&logo=&color=lightgrey)
+![Repo size](https://img.shields.io/github/repo-size/GMatrixGames/JsonAsAsset?label=total%20size&style=for-the-badge&logo=&color=lightgrey&logoColor=lightgrey)
+![Maintenance](https://img.shields.io/maintenance/yes/2024?style=for-the-badge&logo=&color=lightgrey)
+
 <img width="1393" alt="Screenshot 2024-08-03 at 17 03 35" src="https://github.com/user-attachments/assets/87994308-5f18-4861-8783-6a24c30fa9d6">
 
 <table class="data-table">
