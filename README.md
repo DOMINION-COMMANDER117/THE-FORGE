@@ -4,20 +4,7 @@
 
 <img width="1393" alt="Screenshot 2024-08-03 at 17 03 35" src="https://github.com/user-attachments/assets/87994308-5f18-4861-8783-6a24c30fa9d6">
 
-<table class="data-table">
- <thead>
-            <tr>
-                <th>SUPPORT EMAIL</th>
-                </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td>Enforcer.Forge@gmail.com</td>
-                </tr>
-        </tbody>
-    </table>
-</body>
-</html>
+
 
 
 **DO NOT** Use this email for spam. Reporting anyone, or harasment, or the account used to send the email may be reported and terminated for breaking googles **TERMS OF SERVICE!**
